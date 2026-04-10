@@ -185,3 +185,4 @@ describe('calculateDiscountedPrice', () => {
     expect(result).toBe(expectedDiscountedPrice);
   });
 });
+ 
